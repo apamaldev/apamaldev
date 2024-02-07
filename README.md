@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm a passionate UI/UX designer driven by crafting technology solutions that address social impact, sustainability, and accessibility challenges. I leverage my skills in both design and machine learning to create user-centered solutions that make a positive difference in the world.
+I'm a UI/UX designer driven by crafting technology solutions that address social impact, sustainability, and accessibility challenges. I leverage my skills in both design and machine learning to create user-centered solutions that make a positive difference in the world.
 
 My expertise:
 UI/UX Design: User research, information architecture, prototyping, interaction design, visual design, accessibility best practices.
